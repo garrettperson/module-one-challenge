@@ -22,6 +22,10 @@ All changes within the code have been noted via comments.
 
 The new code behaves mostly the same as the old code. The clickable interactions at the top of the page continue to function the same, and now the "Search Engine Optimization" button functions, directing the user to the correct place on the page. A new feature is that all but one of the pictures has an 'alt' tag describing the picture to the user, making the page optimized for screen readers and search engines. 
 
+The deployed website can be found at
+https://garrettperson.github.io/module-one-challenge/
+
+
 ## Credits
 
 The starter code for this project can be found at either of the following sites:

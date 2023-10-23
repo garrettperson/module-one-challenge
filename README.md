@@ -12,7 +12,7 @@ I learned more about more about accessibility by completing this project.
 
 The principle changes include 'alt' tags describing all but one of the images, and the last image is described via comments in the html code. 
 
-The html has been altered such that the non-semantic elements (i.e. <div>) have been replaced by semantic elements, including <section>. 
+The html has been altered such that the non-semantic elements (i.e. div) have been replaced by semantic elements, including section. 
 
 The CSS has been consolidated, removing multiple lines of code that repeat themselves and grouping them into fewer lines of code that pertain to multiple elements. The CSS is less repetitive. 
 
